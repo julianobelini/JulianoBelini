@@ -4,8 +4,3 @@
   <img height="168em" src="https://github-readme-stats.vercel.app/api?username=julianobelini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianobelini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-<div class="Div_Icons" align="center">
-  <a href="https://www.linkedin.com/in/juliano-de-almeida-belini-090a6b251/"><img src="https://expertdigital.net/wp-content/uploads/2018/11/linkedin-logo.png" alt="Contato Linkedin" width="60em"></a>
-  <a href="https://www.instagram.com/jujubelini1/"><img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-social-platform-icon-png-image_6315976.png" alt="Contato instagram" width="60em"></a>
-</div>
