@@ -1,3 +1,4 @@
+
 <header align="center">
   <h1>Desenvolvedor Web e Designer Gráfico</h1>
   <a href="https://github.com/julianobelini">
@@ -5,28 +6,8 @@
   <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianobelini&layout=compact&langs_count=7&theme=dracula"/>
 </header>
 
-<div class="Div_Icons">
-  <div class="icons"><a href='julianobelini123@gmail.com'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Contato por email" width="60em"></a></div>
-  <div class="icons"><a href="https://www.linkedin.com/in/juliano-de-almeida-belini-090a6b251/"><img src="https://expertdigital.net/wp-content/uploads/2018/11/linkedin-logo.png" alt="Contato Linkedin" width="60em"></a></div>
-  <div class="icons"><a href="https://www.instagram.com/jujubelini1/"><img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-social-platform-icon-png-image_6315976.png" alt="Contato instagram" width="60em"></a></div>
+<div class="Div_Icons" align="center">
+  <div class="icons"><a href='julianobelini123@gmail.com'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Contato por email" width="60em"></a>
+  <a href="https://www.linkedin.com/in/juliano-de-almeida-belini-090a6b251/"><img src="https://expertdigital.net/wp-content/uploads/2018/11/linkedin-logo.png" alt="Contato Linkedin" width="60em"></a>
+  <a href="https://www.instagram.com/jujubelini1/"><img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-social-platform-icon-png-image_6315976.png" alt="Contato instagram" width="60em"></a></div>
 </div>
-
-<style type="text/css">
-  .Div_Icons{
-      display: flex;
-      flex-direction: row;      
-      justify-content: center;
-      align-items: center;
-      margin-top: 100px;
-  }
-  .icons{
-    transition: all 0.5s;
-    cursor: pointer;
-    margin-left: 5em;
-    margin-right: 5em;
-  } 
-  .icons:hover{
-    -webkit-transform: scale(1.5);
-    transform: scale(1.5);
-}
-</style>
